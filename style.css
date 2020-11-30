@@ -1,0 +1,15 @@
+.bg-btn-dodo {
+    background-color: #ff6900;
+    color: white;
+    font-weight: bold;
+
+}
+.banner {
+    background-image: url(img/back.jpeg); height: 500px; background-size: 100% 100%;
+}
+.pizz {
+    height: 150px;
+}
+.bsk-box {
+    position: absolute; left: 74%; z-index: 100; top: 7%; display: none;
+}
